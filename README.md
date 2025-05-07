@@ -36,5 +36,6 @@ Dependencies
 
 Notes
 
+    ArUco Calibration (Work in Progress):
     The arucoCalibration.cpp code is experimental and needs debugging. Contributions welcome!
     Use chessboardCalibration.cpp to generate Calibration.yml for other projects.
